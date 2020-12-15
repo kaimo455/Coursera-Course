@@ -1,0 +1,10 @@
+- Legend in AI
+  - Geoffrey Hinton - Nerual Network
+  - Yann LeCun - Convolution Network
+  - Pieter Abbeel - Reinforcement Learning
+  - Ian Goodfellow - Generative Adversarial Networks
+  - Yoshua Bengio - Deep Learning
+  - Yuanqing Lin - Director, Institute of Deep Learning at Baidu, Inc.
+  - Andrej Karpathy - Director of AI at Tesla
+  - Ruslan Salakhutdinov - deep learning, probabilistic graphical models, and large-scale optimization'
+  - Yann LeCun - founding father of convolutional nets

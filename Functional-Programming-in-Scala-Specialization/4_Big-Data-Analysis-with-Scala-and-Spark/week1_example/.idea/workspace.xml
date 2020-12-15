@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="877b225d-b8dc-47af-9526-d1da4627709a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X8DXAPnuGKrPIVsHdYgLo7w9FJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="progfun1-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.details$u0020why$u0020one$u0020plus$u0020one$u0020is$u0020not$u0020three$u0020$u00280pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="details$u0020why$u0020one$u0020plus$u0020one$u0020is$u0020not$u0020three$u0020$u00280pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ListsSuite.details$u0020why$u0020one$u0020plus$u0020one$u0020is$u0020not$u0020three$u0020$u00280pts$u0029" />
+        <item itemvalue="JUnit.ListsSuite" />
+        <item itemvalue="JUnit.ListsSuite.sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u002810pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="example [file:/Users/kaimo/git/Coursera-Scala-Spark-Big-Data/example/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-example-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9441947046000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="324345361" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../test_project" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="877b225d-b8dc-47af-9526-d1da4627709a" name="Default Changelist" comment="" />
+      <created>1580418864643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580418864643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="918" height="290" key="GridCell.Tab.0.bottom" timestamp="1580422056956">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1580422056956" />
+    <state width="918" height="290" key="GridCell.Tab.0.center" timestamp="1580422056955">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="290" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1580422056955" />
+    <state width="918" height="290" key="GridCell.Tab.0.left" timestamp="1580422056955">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="290" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1580422056955" />
+    <state width="918" height="290" key="GridCell.Tab.0.right" timestamp="1580422056955">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="918" height="290" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1580422056955" />
+  </component>
+</project>
